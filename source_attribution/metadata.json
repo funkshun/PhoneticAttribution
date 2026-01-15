@@ -1,0 +1,36 @@
+{
+  "multi-dataset_knnvc":[
+    "knnvc",
+    "vc"
+  ],
+  "multi-dataset_xtts_v1.1":[
+  "xtts_v1.1",
+  "xtts",
+  "tts"
+],
+  "multi-dataset_xtts_v2":[
+  "xtts_v2",
+  "xtts",
+  "tts"
+],
+"vctk_freevc24":[
+  "freevc24",
+  "vc"
+],
+
+"multi-dataset_openvoice_v1":[
+  "openvoice_v1",
+  "openvoice",
+  "vc"
+],
+
+"multi-dataset_openvoice_v2":[
+  "openvoice_v2",
+  "openvoice",
+  "vc"
+],
+  "multi-dataset_your_tts":[
+  "your_tts",
+  "tts"
+]
+}
