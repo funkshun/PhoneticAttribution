@@ -11,4 +11,6 @@ Each script has a cli interface with usage guidelines.
 
 The `dataset_samples` directory includes example audio files from each generator to allow for relative quality inspections.
 
+Full datasets and model checkpoints will be released at the time of publication.
+
 
